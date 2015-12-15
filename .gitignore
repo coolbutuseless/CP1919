@@ -1,0 +1,4 @@
+*.swp
+.Rhistory
+.Rproj.user
+*.html

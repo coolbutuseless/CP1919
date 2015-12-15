@@ -1,0 +1,10 @@
+Package: CP1919
+Type: Package
+Title: Eighty Successive Periods of the First Pulsar Observed, CP1919
+Version: 0.1.0
+Author: mike
+Maintainer: mike <coolbutuseless@gmail.com>
+Description: EIGHTY SUCCESSIVE PERIODS of the first pulsar observed, CP1919.
+License: MIT + file LICENSE
+LazyData: TRUE
+RoxygenNote: 5.0.1
