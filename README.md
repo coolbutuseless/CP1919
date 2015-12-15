@@ -1,7 +1,5 @@
----
-title: "CP1919"
-output: html_document
----
+CP1919
+======
 
 "EIGHTY SUCCESSIVE PERIODS of the first pulsar observed, CP1919 (Cambridge pulsar at 19 hours 19 minutes right ascension), are stacked on top of one another using the average period of 1.33730 seconds in this computer-generated illustration produced at the Arecibo Radio Observatory in Puerto Rico. Although the leading edges of the radio pulses occur within a few thousandths of a second of the predicted times, the shape of the pulses is quite irregular. Some of this irregularity in radio reception is caused by the effects of transmission through the interstellar medium. The average pulse width is less than 50 thousandths of a second." 
 
