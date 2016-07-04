@@ -14,8 +14,8 @@ output: html_document
 library(CP1919)
 library(ggplot2)
 
-ggplot(CP1919, aes(x, ymax=y, ymin=0, group=line)) +
-  geom_ribbon(colour='white') +
+ggplot(CP1919, aes(x, ymax=y, ymin=0, group=line, colour=as.factor(line))) +
+  geom_ribbon() +
   theme_bw() +
   theme(legend.position='none') + 
   theme(panel.grid = element_blank(),
